@@ -1,0 +1,255 @@
+*{
+    margin: 0px;
+    font-family: Arial;
+    border: border-box;
+}
+/* This is navbar Section*/
+.navbar{
+    height: 50px;
+    background-color:whitesmoke;
+    color:black;
+    display: flex;
+    justify-content: space-evenly;
+}
+.nav-logo{
+    height: 50px;
+    width: 100px;
+}
+.logo{
+    height: 26px;
+    width: 75px;
+    background-size: cover;
+}
+.log{
+    height: 23px;
+    width: 76px;
+}
+.logo:hover{
+    cursor: pointer;
+}
+.menu:hover{
+    cursor: pointer;
+}
+.menu{
+    color: black;
+    font-size: 1.5rem;
+}
+.deals:hover{
+    cursor: pointer;
+}
+.deals{
+    color: black;
+    font-size: 1.5rem;
+}
+.icons:hover{
+cursor: pointer;
+}
+.sign{
+    color: black;
+    font-size: 1.5rem;
+    font-weight: 40PX;
+}
+.sign:hover{
+    cursor: pointer;
+}
+.myClass:before{
+    content:"\20B9 0";
+}
+.myClass:hover{
+cursor: pointer;
+}
+.ol{
+    height: 48px;
+    width: 50px;
+}
+.ol:hover{
+    cursor: pointer;
+}
+/*This is Panel Section*/
+.panel{
+    height: 80px;
+    width: 1536px;
+    background-color: #202124;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.btn{
+    height: 50px;
+    width: 200px;
+    background-color: #E4002B;
+    padding: 0px 40px;
+    color: white;
+    border-radius: 30px;
+}
+.btn:hover{
+cursor: pointer;
+}
+.p:hover{
+cursor: pointer;
+}
+/* This is the Hero(center img) Section*/
+.hero{
+    background-image: url(web_1440x396px.webp);
+    height: 400px;
+    background-size: cover;
+    width: 1556px;
+}
+.hero:hover{
+cursor: pointer;
+}
+.cate{
+    font-size: xx-large;
+    text-align: left;
+    color: black;
+    font-synthesis-weight:  2500px;
+}
+/*This is body img and text Section*/
+.cont{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: whitesmoke;
+    width: 100%;
+}
+.box{
+    height:auto;
+    width:23%;
+    background-color: white;
+}
+.img{
+    height: 300px;
+}
+.img:hover{
+    cursor: pointer;
+}
+.chicken{
+    text-align: center;
+    color: black;
+    font-size: larger;
+}
+.im{
+    height: 300px;
+}
+.im:hover{
+    cursor: pointer;
+}
+.chicke{
+    text-align: center;
+    color: black;
+    font-size: larger;
+}
+.ims{
+    height: 300px;
+}
+.ims:hover{
+    cursor: pointer;
+}
+.chick{
+    text-align: center;
+    color: black;
+    font-size: larger;
+}
+.i{
+    height: 300px;
+}
+.i:hover{
+    cursor: pointer;
+}
+.chic{
+    text-align: center;
+    color: black;
+    font-size: larger;
+}
+.con{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: whitesmoke;
+    width: 100%;
+    gap: 5px;
+}
+.bo{
+    height:auto;
+    width:23%;
+    background-color: white;
+}
+.photo{
+    height: 300px;
+}
+.photo:hover{
+    cursor: pointer;
+}
+.bird{
+    text-align: center;
+    color: black;
+    font-size: larger;
+}
+.phot{
+    height: 300px;
+}
+.phot:hover{
+    cursor: pointer;
+}
+.bir{
+    text-align: center;
+    color: black;
+    font-size: larger;
+}
+.pho{
+    height: 300px;
+}
+.pho:hover{
+    cursor: pointer;
+}
+.bir{
+    text-align: center;
+    color: black;
+    font-size: larger;
+}
+.ph{
+    height: 300px;
+}
+.ph:hover{
+    cursor: pointer;
+}
+.bi{
+    text-align: center;
+    color:black;
+    font-size: larger;
+}
+.p{
+    height: 300px;
+}
+.p:hover{
+    cursor: pointer;
+}
+.b{
+    text-align: center;
+    color: black;
+    font-size: larger;
+}
+/*THis is Footer Section*/
+.foot{
+    background-color: #202124;
+    color: white;
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ul a{
+    margin-top: 10px;
+    display: block;
+}
+.buc{
+    height: 60px;
+    width: 60px;
+}
+.cls{
+    height: 45px;
+    width: 130px;
+}
+.ij{
+    height: 45px;
+    width: 130px;
+}
